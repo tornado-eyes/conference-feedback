@@ -18,7 +18,7 @@
 |---|---|---|
 | 13:00～14:15 | [キーノートセッション](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-26-devincon/1300-1430_KeynoteSession.md) | Devinのグローバル活用事例、AI駆動開発の最新動向、国内実態調査 |
 | 14:30～16:00 | [パラレルトラック1（TRACK B）](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-26-devincon/1430-1600_ParallelTruckSession1_TRACK-B.md)| AI駆動型開発組織の実現 |
-| 16:15～17:45 | [パラレルトラック2（TRACK B）](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-26-devincon/1615-1745_ParallelTruckSession2_TRACK-B)| 内製開発への移行 |
+| 16:15～17:45 | [パラレルトラック2（TRACK B）](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-26-devincon/1615-1745_ParallelTruckSession2_TRACK-B.md)| 内製開発への移行 |
 | 18:00～18:30 | サマリー＆ラップアップ | 各トラックの議論・示唆の共有 |
 | 18:30～20:00 | ネットワーキング | 参加者・登壇者間の情報交換 |
 
