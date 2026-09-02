@@ -18,8 +18,8 @@
 | 2026-07-02 | 【金融業界向け技術セミナー】Mythos時代のサイバーセキュリティ — AWS Security Agent ハンズオン ||
 | 2026-07-24 | [AWS Summit 2026 リキャップ & 金融リファレンスアーキテクチャ日本版v2 ご紹介](https://aws-experience.com/apj/smb/event/63a7edab-e8f8-4daa-b8f4-666e3c5edb54)||
 | 2026-07-30 - 2026-07-31 | [AI駆動開発カンファレンス 2026夏](https://aid.connpass.com/event/392230/) ||
-| 2026-08-26 | [DevinCon 2026](2026-08-26-devincon/) | AI駆動開発、AIエージェント、内製化 |
-| 2026-08-27 | [AI駆動開発勉強会：レガシーシステムモダナイゼーション](https://aid.connpass.com/event/400639/) | AI駆動開発 |
+| 2026-08-26 | [AI駆動開発勉強会：レガシーシステムモダナイゼーション](https://aid.connpass.com/event/400639/)<br>[DevinCon 2026 参加報告](2026-08-26-devincon/) | AI駆動開発、AIエージェント、内製化 |
+| 2026-08-27 | [AI駆動開発勉強会：レガシーシステムモダナイゼーション](https://aid.connpass.com/event/400639/)<br>[AI駆動開発勉強会 参加報告](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-27-ai-driven-dev/) | AI駆動開発 |
 
 ---
 
