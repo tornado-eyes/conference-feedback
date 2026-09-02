@@ -38,7 +38,7 @@ AIによりコード生成量は増加する一方、生成されたコードを
 
 - Cognition AIによるDevinの国内外における活用状況
 - AIエージェントを利用したソフトウェア開発事例
-- ファインディによる「開発組織におけるAI導入・活用実態調査」
+- ファインディによる「開発組織におけるAI導入・活用実態調査」（[講演資料](https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo)）
 - AI導入後の開発生産性と、今後の開発プロセスの方向性
 
 #### 主な内容
