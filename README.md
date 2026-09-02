@@ -6,11 +6,7 @@ This repository contains personal feedback and summaries from conferences, semin
 
 ## Events
 
-### 2026
-
-| Date | Event | Topics |
-|---|---|---|
-| 2026-08-26 | [DevinCon 2026](events/2026/2026-08-26-devincon/) | AI駆動開発、AIエージェント、内製化 |
+- [2026](events/2026/README.md)
 
 ## Repository Structure
 
