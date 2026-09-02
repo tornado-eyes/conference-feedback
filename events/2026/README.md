@@ -8,4 +8,4 @@
 
 ---
 
-[リポジトリトップへ戻る](../../)
+[リポジトリトップへ戻る](https://github.com/tornado-eyes/conference-feedback/)
