@@ -8,7 +8,7 @@
 | 2026-02-16 | Google Cloud Gemini Enterprise ビジネスを変える Google のAIをすべての従業員に | |
 | 2026-02-19 | Google Cloud Chrome Enterprise Security Day | Webinar |
 | 2026-03-04 | Google Cloud サイバー脅威動向予測 2026 とセキュリティのけるAI利用の最前線 | Webinar |
-| 2026-03-06 - 2026-03-07 | [FIN/SUM 2026 FIN/SUM NEXT AI×ブロックチェーンが創る 新金融エコシステム](https://www.finsum.jp/) | |
+| 2026-03-03 - 2026-03-06 | [FIN/SUM 2026 FIN/SUM NEXT AI×ブロックチェーンが創る 新金融エコシステム](https://www.finsum.jp/) | |
 | 2026-03-19 | [Google Cloud Agentic AI Summit '26 Spring](https://cloudonair.withgoogle.com/events/agentic-ai-summit-26-spring)) ||
 | 2026-04-15 | Google Cloud VMware Solution | Webinar |
 | 2026-04-16 | Google Cloud SOC ||
