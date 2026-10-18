@@ -1,11 +1,11 @@
-# AI-Ready Infra & DB Summit 参加Feedback - Summary
+# AI-Ready Infra & DB Summit '26 参加 Feedback - Summary
 
 ## 1. 開催概要
 
 | 項目 | 内容 |
 |---|---|
 | 開催日 | 2026年10月16日（金）14:00～18:00 |
-| イベント名 | [AI-Ready Infra & DB Summit](https://cloudonair.withgoogle.com/events/infra-db-summit26) |
+| イベント名 | [AI-Ready Infra & DB Summit '26](https://cloudonair.withgoogle.com/events/infra-db-summit26) |
 | テーマ | AI駆動で進める、クラウド移行と運用のこれから |
 | 開催方法 | ハイブリッド（Google渋谷オフィス／オンライン配信） |
 | 主催 | Google Cloud |
