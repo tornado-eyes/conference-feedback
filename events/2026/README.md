@@ -26,7 +26,7 @@
 | 2026-09-16 | [Google Cloud AI エージェントが変える業務の未来 〜 Gemini Enterprise ユースケース徹底解説 〜](https://cloudonair.withgoogle.com/events/essentials-26q3september) | |
 | 2026-09-28 | [Google Cloud OnAir UPDATES 製品アップデート：Infrastructure / Database / AppMod 編](https://cloudonair.withgoogle.com/events/onair-260928) | |
 | 2026-10-02 | [Google Cloud で目指す クラウド二刀流エンジニア講座](https://cloudonair.withgoogle.com/events/jump-start-23) | |
-| 2026-10-08 | AI をセキュアに組織展開する第一歩 〜投資対効果を生む  AI エージェントの選定と Gemini Enterprise 実践例〜 | |
+| 2026-10-08 | AI をセキュアに組織展開する第一歩 〜投資対効果を生む  AI エージェントの選定と Gemini Enterprise 実践例〜 | [投影資料](https://services.google.com/fh/files/misc/1008webinar.pdf) |
 | 2026-10-13 | [Google Cloud OnAir Deepdive: Gemma 4 活用 実践セッション](https://cloudonair.withgoogle.com/events/onair-261013) | |
 | 2026-10-16 | [AI-Ready Infra & DB Summit '26](https://cloudonair.withgoogle.com/events/infra-db-summit26) | |
 | 2026-10-20 | [Google Cloud Security Security Summit ’26](https://cloudonair.withgoogle.com/events/jp-security-summit-26) | |
