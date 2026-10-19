@@ -30,7 +30,11 @@
 | 2026-10-13 | [Google Cloud OnAir Deepdive: Gemma 4 活用 実践セッション](https://cloudonair.withgoogle.com/events/onair-261013) | |
 | 2026-10-16 | [AI-Ready Infra & DB Summit '26](https://cloudonair.withgoogle.com/events/infra-db-summit26) | |
 | 2026-10-20 | [Google Cloud Security Security Summit ’26](https://cloudonair.withgoogle.com/events/jp-security-summit-26) | |
-
+| 2026-10-29<br>2026-10-30 | [Agentic AI Summit '26 Fall](https://cloudonair.withgoogle.com/events/agentic-ai-summit-26-fall) | |
+| 2026-11-04 | [Snowflake EXPEDITION DAY1](https://www.snowflake.com/ja/expedition/) | |
+| 2026-11-11 | [Google Workspace と AI で実現する新しい働き方 〜日常業務をスマートにする AI エージェント活用術〜](https://cloudonair.withgoogle.com/events/essentials-26q4november) | |
+| 2026-11-18 | [Data & AI Summit ’26 Fall](https://cloudonair.withgoogle.com/events/data-ai-summit-26f) | |
+| 2026-11-19 | [AIforce World Tour Tokyo](https://www.salesforce.com/jp/events/world-tour/tokyo/)| |
 
 ---
 
