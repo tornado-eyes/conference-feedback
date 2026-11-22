@@ -14,12 +14,12 @@
 
 | 時間 | トラック | セッション |
 |---|---|---|
-| 13:00～14:15 | 全体 | 【基調講演】Agent-Ready 2.0 ー 理論から実践、その先へ |
-| 14:25～15:35 | Track 1 | データ移行なしで AI へ繋ぐ「SOAP」アーキテクチャ ─ オントロジーによるコンテキスト最適化とトークン消費の抑制 |
-| 15:45～16:15 | Track 1 | Knowledge Catalog で挑む、全国通信キャリア網設計に熟練した AI エージェントができるまで |
-| 16:25～16:55 | Track 1 | キリンビール営業部門のデータ × AI 活用の現在地 |
-| 17:05～17:35 | Track 1 | Google でマルチクラウドのデータを繋ぐ - M365・AWS・ServiceNow を横断する「自律型ヘルプデスク with AI Agent」構築の全貌 - |
-| 17:45～18:15 | Track 1 | エージェントのバックエンドとしての Google Cloud データ製品の強みとポジショニング |
+| 13:00～14:15 | 全体 | 【基調講演】Agent-Ready 2.0 ー 理論から実践、その先へ<br>公開資料：[gcdais-26f-t1-keynote.pdf](https://services.google.com/fh/files/events/gcdais-26f-t1-keynote.pdf) |
+| 14:25～15:35 | Track 1 | データ移行なしで AI へ繋ぐ「SOAP」アーキテクチャ ─ オントロジーによるコンテキスト最適化とトークン消費の抑制<br>公開資料：[gcdais-26f-t1-session1.pdf](https://services.google.com/fh/files/events/gcdais-26f-t1-session1.pdf) |
+| 15:45～16:15 | Track 1 | Knowledge Catalog で挑む、全国通信キャリア網設計に熟練した AI エージェントができるまで<br>公開資料：[gcdais-26f-t1-session2.pdf](https://services.google.com/fh/files/events/gcdais-26f-t1-session2.pdf) |
+| 16:25～16:55 | Track 1 | キリンビール営業部門のデータ × AI 活用の現在地<br>公開資料：なし |
+| 17:05～17:35 | Track 1 | Google でマルチクラウドのデータを繋ぐ - M365・AWS・ServiceNow を横断する「自律型ヘルプデスク with AI Agent」構築の全貌 -<br>公開資料：なし |
+| 17:45～18:15 | Track 1 | エージェントのバックエンドとしての Google Cloud データ製品の強みとポジショニング<br>公開資料：[gcdais-26f-t1-session6.pdf](https://services.google.com/fh/files/events/gcdais-26f-t1-session6.pdf) |
 
 ※聴講したセッションのみ記載
 
