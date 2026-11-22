@@ -33,7 +33,7 @@
 | 2026-10-29<br>2026-10-30 | [Agentic AI Summit '26 Fall](https://cloudonair.withgoogle.com/events/agentic-ai-summit-26-fall) | |
 | 2026-11-04 | [Snowflake EXPEDITION DAY1](https://www.snowflake.com/ja/expedition/) | |
 | 2026-11-11 | [Google Workspace と AI で実現する新しい働き方 〜日常業務をスマートにする AI エージェント活用術〜](https://cloudonair.withgoogle.com/events/essentials-26q4november) | |
-| 2026-11-18 | [Data & AI Summit ’26 Fall](https://cloudonair.withgoogle.com/events/data-ai-summit-26f) | |
+| 2026-11-18 | [Google Cloud Data & AI Summit ’26 Fall](https://cloudonair.withgoogle.com/events/data-ai-summit-26f) | |
 | 2026-11-19 | [Salesforce World Tour Tokyo](https://www.salesforce.com/jp/events/world-tour/tokyo/)| |
 | 2026-11-19 | [Kong API+AI Summit Japan 2026](https://www.kong-api-aisummitjapan2026.com/)| |
 
