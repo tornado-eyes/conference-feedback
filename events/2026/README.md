@@ -18,8 +18,8 @@
 | 2026-07-02 | 【金融業界向け技術セミナー】Mythos時代のサイバーセキュリティ — AWS Security Agent ハンズオン ||
 | 2026-07-24 | [AWS Summit 2026 リキャップ & 金融リファレンスアーキテクチャ日本版v2 ご紹介](https://aws-experience.com/apj/smb/event/63a7edab-e8f8-4daa-b8f4-666e3c5edb54)||
 | 2026-07-30 - 2026-07-31 | [AI駆動開発カンファレンス 2026夏](https://aid.connpass.com/event/392230/) ||
-| 2026-08-26 | [DevinCon｜AI駆動開発の実践者たち、集まれ。](https://devin.ai/devincon26)<br>[参加セッションサマリ](2026-08-26-devincon/) | AI駆動開発、AIエージェント、内製化 |
-| 2026-08-27 | [AI駆動開発勉強会：レガシーシステムモダナイゼーション](https://aid.connpass.com/event/400639/)<br>[参加セッションサマリ](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-27-ai-driven-dev/) | AI駆動開発 |
+| 2026-08-26 | [DevinCon｜AI駆動開発の実践者たち、集まれ。](https://devin.ai/devincon26) | AI駆動開発、AIエージェント、内製化<br>[参加セッションサマリ](2026-08-26-devincon/) |
+| 2026-08-27 | [AI駆動開発勉強会：レガシーシステムモダナイゼーション](https://aid.connpass.com/event/400639/) | AI駆動開発<br>[参加セッションサマリ](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-08-27-ai-driven-dev/) |
 | 2026-09-10 | [Snowflake World Tour 2026](https://www.snowflake.com/ja/news/press-releases/snowflake-world-tour-tokyo-2026/) | |
 | 2026-09-14 | [Google Cloud 製品アップデート：DA / AI 編](https://cloudonair.withgoogle.com/events/onair-260914) | |
 | 2026-09-15 | [Gemini Enterprise Agent Platform で構築する次世代AIエージェントのエコシステム](https://cloudonair.withgoogle.com/events/onair-260915) | |
@@ -33,8 +33,8 @@
 | 2026-10-29<br>2026-10-30 | [Agentic AI Summit '26 Fall](https://cloudonair.withgoogle.com/events/agentic-ai-summit-26-fall) | |
 | 2026-11-04 | [Snowflake EXPEDITION DAY1](https://www.snowflake.com/ja/expedition/) | |
 | 2026-11-11 | [Google Workspace と AI で実現する新しい働き方 〜日常業務をスマートにする AI エージェント活用術〜](https://cloudonair.withgoogle.com/events/essentials-26q4november) | |
-| 2026-11-18 | [Google Cloud Data & AI Summit ’26 Fall](https://cloudonair.withgoogle.com/events/data-ai-summit-26f) | |
-| 2026-11-19 | [Salesforce World Tour Tokyo](https://www.salesforce.com/jp/events/world-tour/tokyo/)| |
+| 2026-11-18 | [Google Cloud Data & AI Summit ’26 Fall](https://cloudonair.withgoogle.com/events/data-ai-summit-26f) | [参加セッションサマリ](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-11-18-google-cloud-data-ai-summit-26/2026-11-18-google-cloud-data-ai-summit-26-summary.md) |
+| 2026-11-19 | [Salesforce World Tour Tokyo](https://www.salesforce.com/jp/events/world-tour/tokyo/)| [参加セッションサマリ](https://github.com/tornado-eyes/conference-feedback/blob/main/events/2026/2026-11-19-Salesforce-world-tour-tokyo/2026-11-19-salesforce-world-tour-tokyo-summary.md) |
 | 2026-11-19 | [Kong API+AI Summit Japan 2026](https://www.kong-api-aisummitjapan2026.com/)| |
 
 ---
