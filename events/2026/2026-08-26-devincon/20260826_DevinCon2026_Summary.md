@@ -1,4 +1,4 @@
-# DevinCon 2026 参加Feedback（簡易版）
+# DevinCon 2026 参加 Feedback（簡易版）
 
 ## 1. 開催概要
 
